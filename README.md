@@ -60,6 +60,13 @@ After cleaning, the data is ready for dashboarding and analysis.
 
 ![Power Query Steps](....)
 
+## 🖼️ Before and After Cleaning
+### Before Cleaning 
+### After Cleaning
+
+## 📁 Files In This Repository
+
+
 ## 🚀 Key Skills Demonstrated
 
 - Data cleaning  
@@ -80,10 +87,11 @@ This project showcases my ability to transform raw data into reliable, structure
 
 ## 👤 Author
 
-**Ojo Glory**  
-Nursing Student & Data Analyts  
-Nigeria 🇳🇬  
+**Glory Ojo**  
+Data Analyst | Data Cleaning Specialist  
+Biotechnology and Nursing Background
 ALX Data Analytics Graduate
+Nigeria
 
 
 
