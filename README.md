@@ -67,7 +67,8 @@ After cleaning, the data is ready for dashboarding and analysis.
 (https://github.com/gloryojodata/Power-Query-Data-Cleaning/blob/main/after-cleaning.png)
 
 ## 📁 Files In This Repository
-(Power-Query-Data-Cleaning/cleaned_data.xlsx at main · gloryojodata/Power-Query-Data-Cleaning) 
+(Power-Query-Data-Cleaning/cleaned_data.xlsx at main · gloryojodata/Power-Query-Data-Cleaning)
+
 (Power-Query-Data-Cleaning/raw_data.xlsx at main · gloryojodata/Power-Query-Data-Cleaning)
 ## 🚀 Key Skills Demonstrated
 
