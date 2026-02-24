@@ -90,9 +90,9 @@ This project showcases my ability to transform raw data into reliable, structure
 ## 👤 Author
 
 **Glory Ojo**  
-Data Analyst | Data Cleaning Specialist
-Biotechnology and Nursing Background
-Alx Data Analytics Graduate
+**Data Analyst | Data Cleaning Specialist**  
+Biotechnology and Nursing Background  
+ALX Data Analytics Graduate  
 Nigeria
 
 
